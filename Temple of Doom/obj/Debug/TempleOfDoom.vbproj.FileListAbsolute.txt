@@ -1,0 +1,11 @@
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\TempleOfDoom.exe
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\TempleOfDoom.xml
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\TempleOfDoom.pdb
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\bin\Debug\TempleOfDoom.exe
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\bin\Debug\TempleOfDoom.pdb
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\bin\Debug\TempleOfDoom.xml
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\ResolveAssemblyReference.cache
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\TempleOfDoom.frmMain.resources
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\TempleOfDoom.Resources.resources
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\TempleOfDoom.vbproj.GenerateResource.Cache
+Y:\Desktop\server\9th Grade\Comp_Sci\TempleOfDoom-new\obj\Debug\TempleOfDoom.frmHowTo.resources
