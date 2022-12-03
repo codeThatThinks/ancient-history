@@ -6,6 +6,7 @@ Ancient software projects from high school and earlier.
 ## Projects
 
 - 2012-06-06: [Temple of Doom](Temple%20of%20Doom/)
+- 2009-04-11: [Cars And Trucks](Cars%20And%20Trucks/)
 - 2009-03-25: [What's Your Rating?](What%27s%20Your%20Rating/)
 - 2009-03-12: [WinBob](WinBob/)
 - 2008-12-23: [AirBob](AirBob/)
