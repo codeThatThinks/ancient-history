@@ -1,4 +1,4 @@
-# archive
+# ancient-history
 
 Ancient software projects from high school and earlier.
 
